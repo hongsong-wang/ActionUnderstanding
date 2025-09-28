@@ -1,4 +1,4 @@
-# Recent Human Motion Papers on arXiv
+# Recent Human Action Understanding Papers on arXiv
 
 To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts based on this topic from arXiv and created a webpage. 
 
